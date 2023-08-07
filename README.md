@@ -2,6 +2,19 @@
 
 2023/08/01(火)「TDDワークショップ　by twadaさん」
 
+## 演習問題
+
+- 整数の閉区間(短めの問題分)
+  - [あらかじめ問題を分解した](https://gist.github.com/twada/29247a921e5e977c028f478b30af3248)
+  - [自力でTODO 分解版](https://gist.github.com/twada/df6bf4b2d1828919f778cac705cd2ea8)
+- 整数の閉区間(長めの問題分)
+  - [あらかじめ問題を分解した](https://gist.github.com/twada/3a6b068942810b89679f)
+  - [自力でTODO 分解版](https://gist.github.com/twada/75fb219c8cc180e9de166d8a58e877b0)
+
+## おかわり問題
+
+- [整数の開区間](https://gist.github.com/twada/b875014506653da64a3b136191c48e6f)
+
 ## 和田さんからのお土産
 
 - [テストコードのリファクタリングが目指すもの](https://dxd2021.cto-a.org/program/time-table/a-1)
